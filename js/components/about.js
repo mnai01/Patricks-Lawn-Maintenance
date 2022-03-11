@@ -19,7 +19,7 @@ class CustomAbout extends HTMLElement {
                             <div class="col-md-12 heading-section ftco-animate">
                                 <span class="subheading">Welcome to Patrick's Lawn Maintenance</span>
                                 <h2 class="mb-4">Welcome to Patrick's Lawn Maintenance</h2>
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                                <p>We are a privately owned and operated lawn maintenance company servicing Westchester and Putnam County, New York, with over 10 years of experience. Our services include: weekly maintenance, mulching, pruning, spring and fall clean-ups.</p>
                                 <div class="services-wrap">
                                     <a href="/services.html" class="services-list"
                                         >Gutter cleaning
